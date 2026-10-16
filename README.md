@@ -130,7 +130,6 @@ WeatherApp/
     ├── WeatherAppApp.swift              # Ponto de entrada (@main)
     ├── Assets.xcassets/                 # AppIcon (claro/escuro) e logo
     ├── Config/
-    │   ├── Secrets.example.swift        # Modelo de configuração (versionado)
     │   └── Secrets.swift                # Sua API Key (ignorado pelo Git)
     ├── Models/
     │   ├── WeatherResponse.swift        # Espelho do JSON da API (Decodable)
