@@ -231,7 +231,7 @@ GET https://api.openweathermap.org/data/2.5/weather
 **Fernando**, estudante de Sistemas de Informação na FIAP.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-kang/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/fyk9926)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/fykwork9926)
 
 ---
 
