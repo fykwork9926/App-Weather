@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="docs/icon.png" width="120" alt="Ícone do WeatherApp"/>
+<img src="https://github.com/user-attachments/assets/e4edc54c-79cf-4887-abde-8ed242e2cbc9"
+ width="120" alt="Ícone do WeatherApp"/>
 
 # WeatherApp
 
@@ -20,9 +21,10 @@ Busque qualquer cidade e veja a temperatura atual, a condição do tempo e um í
 
 ## 📱 Telas
 
-| Início | Carregando | Resultado | Erro |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/screenshots/idle.png" width="200"/> | <img src="docs/screenshots/loading.png" width="200"/> | <img src="docs/screenshots/loaded.png" width="200"/> | <img src="docs/screenshots/error.png" width="200"/> |
+| Início | Resultado | Erro |
+|:---:|:---:|:---:|
+|<img src="https://github.com/user-attachments/assets/4c7dfe2d-8eae-41e5-9357-308cbee5a762" width="200"/> |<img src="https://github.com/user-attachments/assets/2ad2efba-a294-4a5b-836e-a79b336291a6" width="200"/>|<img src="https://github.com/user-attachments/assets/f9d20dcf-0292-4cfa-8857-273f0f7c4468" width="200"/>|
+ 
 
 ---
 
@@ -228,8 +230,8 @@ GET https://api.openweathermap.org/data/2.5/weather
 
 **Fernando**, estudante de Sistemas de Informação na FIAP.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-kang/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/fyk9926)
 
 ---
 
